@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 6</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="加热方式" transform="translate(-504.000000, -96.000000)">
+            <g id="编组-6" transform="translate(504.000000, 96.000000)">
+                <g id="icon/32/about备份-12" transform="translate(36.000000, 33.750000)" fill="#FFFFFF">
+                    <polygon id="pipe" fill-rule="nonzero" points="58.5 59.625 58.5 63 13.5 63 13.5 59.625"></polygon>
+                    <polygon id="pipe备份" fill-rule="nonzero" points="58.5 13.5 58.5 16.875 13.5 16.875 13.5 13.5"></polygon>
+                    <path d="M72,0 L72,76.5 L0,76.5 L0,0 L72,0 Z M68.625,3.375 L3.375,3.375 L3.375,73.125 L68.625,73.125 L68.625,3.375 Z" id="矩形-2"></path>
+                </g>
+                <rect id="矩形备份-3" x="0" y="0" width="144" height="144"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
