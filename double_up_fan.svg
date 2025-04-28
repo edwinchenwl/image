@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>double_up_fan</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="加热方式" transform="translate(-660.000000, -48.000000)">
+            <g id="double_up_fan" transform="translate(660.000000, 48.000000)">
+                <g id="icon/32/about备份-10" transform="translate(14.625000, 14.625000)">
+                    <polygon id="路径" fill="#FFFFFF" fill-rule="nonzero" points="39.375 3.375 39.375 5.06225644 3.375 5.06225644 3.375 3.375"></polygon>
+                    <g id="fan" transform="translate(21.375000, 26.630629) rotate(-330.000000) translate(-21.375000, -26.630629) translate(9.000000, 13.509732)" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="1.5">
+                        <polyline id="路径" points="16.2424552 14.373919 20.8988654 10.6607291 20.8988654 4.96660168 12.6858364 -5.68434189e-14"></polyline>
+                        <polyline id="路径" points="10.669052 10.9879307 5.12663802 8.8091042 0.19632111 11.65508 0 21.2546406"></polyline>
+                        <polyline id="路径" points="10.5230405 17.5066904 11.4081142 23.3936424 16.3384311 26.241794 24.75 21.6139991"></polyline>
+                    </g>
+                    <path d="M3.375,10.3989577 L6.56105505,11.6519776 C7.49022936,12.0157576 9.00949541,12.0157576 9.93646789,11.6519776 L13.1247248,10.3989577 C14.0538991,10.0336808 15.5709633,10.0336808 16.4957339,10.3989577 L19.6905963,11.6534746 C20.6197706,12.0157576 22.1368349,12.0157576 23.0660092,11.6519776 L26.2542661,10.3989577 C27.1790367,10.0336808 28.7005046,10.0336808 29.6252752,10.3989577 L32.8157339,11.6519776 C33.7405046,12.0157576 35.2619725,12.0157576 36.1867431,11.6519776 L39.375,10.3989577" id="Stroke-3备份" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"></path>
+                </g>
+                <rect id="矩形备份-6" x="0" y="0" width="72" height="72"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

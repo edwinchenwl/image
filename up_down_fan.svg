@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>up_down_fan</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="加热方式" transform="translate(-524.000000, -48.000000)">
+            <g id="up_down_fan" transform="translate(524.000000, 48.000000)">
+                <g id="编组-4">
+                    <g id="icon/32/about备份-7" transform="translate(14.625000, 14.625000)" fill-rule="nonzero">
+                        <polygon id="路径" fill="#FFFFFF" points="39.375 2.25 39.375 3.93725644 3.375 3.93725644 3.375 2.25"></polygon>
+                        <polygon id="路径备份" fill="#FFFFFF" points="39.375 38.8125 39.375 40.4997564 3.375 40.4997564 3.375 38.8125"></polygon>
+                        <g id="fan" transform="translate(21.375000, 19.308397) rotate(-330.000000) translate(-21.375000, -19.308397) translate(9.000000, 6.187500)" stroke="#FFFFFF" stroke-width="1.5">
+                            <polyline id="路径" points="16.2424552 14.373919 20.8988654 10.6607291 20.8988654 4.96660168 12.6858364 0"></polyline>
+                            <polyline id="路径" points="10.669052 10.9879307 5.12663802 8.8091042 0.19632111 11.65508 0 21.2546406"></polyline>
+                            <polyline id="路径" points="10.5230405 17.5066904 11.4081142 23.3936424 16.3384311 26.241794 24.75 21.6139991"></polyline>
+                        </g>
+                    </g>
+                    <rect id="矩形备份-2" x="0" y="0" width="72" height="72"></rect>
+                </g>
+                <rect id="矩形备份-5" x="0" y="0" width="72" height="72"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
